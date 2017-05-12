@@ -32,7 +32,7 @@ The variables are:
 * ```HOST```, the database host
 * ```PORT```, the database port
 
-Once configured, you can execute the tool by calling first:
+Once configured, you can execute the tool by calling first: 
 
 ```
 python run.py -i
