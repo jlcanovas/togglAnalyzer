@@ -1,4 +1,4 @@
-I use this repository as a playground to test Toggl API. 
+I use this repository as a playground to test Toggl API. For now it's just a toy project.
 
 ## Current support
 
