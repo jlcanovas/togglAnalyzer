@@ -1,0 +1,8 @@
+config.py
+**/*.pyc
+.idea/**/*
+*.iml
+build/**/*
+temp/**/*
+toggl_analyzer.egg-info/**/*
+setup.cfg

@@ -1,0 +1,12 @@
+# Toggl API Token
+API_TOKEN = 'YOUR TOKEN HERE'
+
+# WORKSPACE TO ANALYZE
+WORKSPACE = 'YOUR ID HERE'
+
+# Database config
+DATABASE = 'toggl'
+USER = 'root'
+PASSWORD = 'root'
+HOST = 'localhost'
+PORT = '3306'
