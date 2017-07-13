@@ -52,4 +52,5 @@ class TogglAnalyzer(object):
             end = elem['end']
             user = elem['user']
             project = elem['project']
-            toggl_storage.add_entry(id, description, start, end, user, project)
+            tags = elem['tags']
+            toggl_storage.add_entry(id, description, start, end, user, project, tags)
